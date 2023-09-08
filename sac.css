@@ -262,6 +262,9 @@ font-family: 'Work Sans', sans-serif;
 .btn:hover::after {
     background-position: 100% 0;
 }
+.btn i{
+    margin-left: 10px;
+}
 
 
 .home-img {
